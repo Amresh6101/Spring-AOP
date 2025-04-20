@@ -16,10 +16,6 @@ target/
 ### IntelliJ IDEA ###
 .idea
 target
-.gitattributes
-mvnw.cmd
-mvnw
-.mvn
 *.iws
 *.iml
 *.ipr
